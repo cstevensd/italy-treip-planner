@@ -1,1 +1,1 @@
-# italy-treip-planner
+# italy-trip-planner
